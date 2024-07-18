@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh Nandy</h1>
-
+<h3 align="center">Tech Savy || Loves to Code </h3>
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=RiteshhGitH&label=Profile%20views&color=0e75b6&style=flat"
