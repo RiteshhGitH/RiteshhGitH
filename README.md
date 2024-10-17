@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ritesh.nandyofficial@gmail.com**
 
-- ⚡ Fun fact :- Travelling and Driving 🚗 are the reasons to live.
+- ⚡ Fun fact :- Coding, Travelling and Driving 🚗 are the reasons to live.
 
 <br>
 
